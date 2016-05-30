@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeFunctions-CSharp", "TimeFunctions-CSharp\TimeFunctions-CSharp.csproj", "{BC909C1B-1E51-49A9-B5C2-8DB710BC06D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTest", "TimeTest\TimeTest.csproj", "{E885F65A-6FB9-435B-BC1A-B81A3ADFE4C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeLib", "TimeLib\TimeLib.csproj", "{CCF48A52-2C4A-49C7-9B14-CA79E748AE3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC909C1B-1E51-49A9-B5C2-8DB710BC06D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC909C1B-1E51-49A9-B5C2-8DB710BC06D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC909C1B-1E51-49A9-B5C2-8DB710BC06D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC909C1B-1E51-49A9-B5C2-8DB710BC06D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E885F65A-6FB9-435B-BC1A-B81A3ADFE4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E885F65A-6FB9-435B-BC1A-B81A3ADFE4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E885F65A-6FB9-435B-BC1A-B81A3ADFE4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E885F65A-6FB9-435B-BC1A-B81A3ADFE4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF48A52-2C4A-49C7-9B14-CA79E748AE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF48A52-2C4A-49C7-9B14-CA79E748AE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF48A52-2C4A-49C7-9B14-CA79E748AE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF48A52-2C4A-49C7-9B14-CA79E748AE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
